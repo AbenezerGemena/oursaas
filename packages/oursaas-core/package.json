@@ -1,0 +1,16 @@
+{
+  "name": "@oursaas/core",
+  "version": "1.0.0",
+  "description": "Core utilities for OurSaas WhatsApp messaging platform",
+  "main": "index.ts",
+  "types": "index.ts",
+  "author": "Abenezer Gemena <abenezercheb@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://oursaas.example",
+  "keywords": [
+    "oursaas",
+    "whatsapp",
+    "marketing",
+    "saas"
+  ]
+}
