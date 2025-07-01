@@ -1,0 +1,12 @@
+node_modules
+coverage
+dist
+.git
+.env
+.env.*
+!.env.example
+*.md
+scripts/build-realistic-history.py
+scripts/transform_oursaas.py
+.vscode
+documentation.html
